@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Live Webcams Overzicht</title>
+  <style>
+
+    @media (max-width: 768px) {
+  .webcam iframe {
+    height: 250px !important;
+  }
+  .webcam-info h2 {
+    font-size: 1.2rem !important;
+  }
+}
+
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #000000;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #fff;
+      font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      font-size: 75px;
+      font-style:oblique;
+      text-align: center;
+      margin-bottom: 40px;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .webcam-container {
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+      max-width: 1072px;
+      margin: 0 auto;
+    }
+
+    .webcam {
+      background: #000000;
+      border-radius: 16px;
+      border-top: 3px solid #f70000;
+      border-bottom: 3px solid #f70000;
+      border-left: 3px solid #f70000;
+      border-right: 3px solid #f70000;
+      border-spacing:10px ;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .webcam iframe, .webcam img {
+      width: 100%;
+      height: 600px;
+      border: none;
+    }
+
+    .webcam-info {
+      padding: 15px 20px;
+    }
+
+    .webcam-info h2 {
+      margin: 0 0 10px;
+      font-size: 1.6em;
+      color: #fff;
+    }
+
+    .webcam-info p {
+      margin: 0;
+      color: #555;
+    }
+
+     footer {
+      background: #000000;
+      text-align: center;
+      padding-top: 40px;
+      padding-bottom: 40px;
+      color: #970f0f;
+      font-size: 1em;
+    }
+
+    @media (max-width: 768px) {
+      .webcam iframe {
+        height: 300px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Beachcams</h1>
+
+  <div class="webcam-container">
+
+    <!-- Website webcam -->
+    <div class="webcam">
+      <iframe src="https://www.beachclubblankenberge.be/beachcam/" allowfullscreen></iframe>
+      <div class="webcam-info">
+        <h2>Beachclub Blankenberge</h2>
+        <p>Alle hoeken</p>
+      </div>
+    </div>
+
+    <!-- YouTube Livestream 1 -->
+    <div class="webcam">
+      <iframe src="https://www.youtube.com/embed/AZeifyx8GaA?autoplay=1&mute=1" allowfullscreen></iframe>
+      <div class="webcam-info">
+        <h2>strand Blankenberge</h2>
+        <p>Alle hoeken</p>
+      </div>
+    </div>
+
+    <!-- YouTube Livestream 2 -->
+    <div class="webcam">
+      <iframe src="https://www.youtube.com/embed/-3SMlcFv7II?autoplay=1&mute=1" allowfullscreen></iframe>
+      <div class="webcam-info">
+        <h2>Beachclub Blankenberge</h2>
+        <p>Pier rechts</p>
+      </div>
+    </div>
+
+    <!-- YouTube Livestream 3 -->
+    <div class="webcam">
+      <iframe src="https://www.youtube.com/embed/fPc6v5QFTcE?autoplay=1&mute=1" allowfullscreen></iframe>
+      <div class="webcam-info">
+        <h2>Knokke strand</h2>
+        <p>Hoofdpost redders</p>
+      </div>
+    </div>
+
+  </div>
+
+    <footer>
+    &copy; 2025 Smedtronics
+    </footer>
+
+</body>
+</html>
