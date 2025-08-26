@@ -1,15 +1,6 @@
 {
   "augustus 2025": [
     {
-      "dag": "ma. maandag 25 aug",
-      "tijden": [
-        "03:19 uur (Hoogwater)",
-        "09:47 uur (Laagwater)",
-        "15:36 uur (Hoogwater)",
-        "22:14 uur (Laagwater)"
-      ]
-    },
-    {
       "dag": "di. dinsdag 26 aug",
       "tijden": [
         "03:56 uur (Hoogwater)",
@@ -25,6 +16,15 @@
         "10:52 uur (Laagwater)",
         "16:44 uur (Hoogwater)",
         "23:22 uur (Laagwater)"
+      ]
+    },
+    {
+      "dag": "do. donderdag 28 aug",
+      "tijden": [
+        "05:05 uur (Hoogwater)",
+        "11:22 uur (Laagwater)",
+        "17:18 uur (Hoogwater)",
+        "23:49 uur (Laagwater)"
       ]
     }
   ],
@@ -62,6 +62,15 @@
         "05:22 uur (Hoogwater)",
         "11:55 uur (Laagwater)",
         "18:14 uur (Hoogwater)"
+      ]
+    },
+    {
+      "dag": "vr. vrijdag 5 sep",
+      "tijden": [
+        "00:26 uur (Hoogwater)",
+        "06:29 uur (Laagwater)",
+        "12:46 uur (Hoogwater)",
+        "19:12 uur (Laagwater)"
       ]
     }
   ]
