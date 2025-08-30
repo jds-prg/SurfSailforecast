@@ -1,14 +1,6 @@
 {
   "augustus 2025": [
     {
-      "dag": "vr. vrijdag 29 aug",
-      "tijden": [
-        "05:36 uur (Hoogwater)",
-        "11:47 uur (Laagwater)",
-        "17:50 uur (Hoogwater)"
-      ]
-    },
-    {
       "dag": "za. zaterdag 30 aug",
       "tijden": [
         "00:12 uur (Hoogwater)",
@@ -35,68 +27,6 @@
         "07:34 uur (Laagwater)",
         "13:45 uur (Hoogwater)",
         "20:01 uur (Laagwater)"
-      ]
-    },
-    {
-      "dag": "di. dinsdag 2 sep",
-      "tijden": [
-        "02:53 uur (Hoogwater)",
-        "08:51 uur (Laagwater)",
-        "15:49 uur (Hoogwater)",
-        "21:47 uur (Laagwater)"
-      ]
-    },
-    {
-      "dag": "wo. woensdag 3 sep",
-      "tijden": [
-        "04:19 uur (Hoogwater)",
-        "10:39 uur (Laagwater)",
-        "17:05 uur (Hoogwater)",
-        "23:23 uur (Laagwater)"
-      ]
-    },
-    {
-      "dag": "do. donderdag 4 sep",
-      "tijden": [
-        "05:22 uur (Hoogwater)",
-        "11:55 uur (Laagwater)",
-        "18:14 uur (Hoogwater)"
-      ]
-    },
-    {
-      "dag": "vr. vrijdag 5 sep",
-      "tijden": [
-        "00:26 uur (Hoogwater)",
-        "06:29 uur (Laagwater)",
-        "12:46 uur (Hoogwater)",
-        "19:12 uur (Laagwater)"
-      ]
-    },
-    {
-      "dag": "za. zaterdag 6 sep",
-      "tijden": [
-        "01:11 uur (Hoogwater)",
-        "07:24 uur (Laagwater)",
-        "13:26 uur (Hoogwater)",
-        "19:58 uur (Laagwater)"
-      ]
-    },
-    {
-      "dag": "zo. zondag 7 sep",
-      "tijden": [
-        "01:47 uur (Hoogwater)",
-        "08:06 uur (Laagwater)",
-        "14:01 uur (Hoogwater)",
-        "20:36 uur (Laagwater)"
-      ]
-    },
-    {
-      "dag": "ma. maandag 8 sep",
-      "tijden": [
-        "02:21 uur (Hoogwater)",
-        "08:46 uur (Laagwater)",
-        "14:37 uur (Hoogwater)",
-        "21:15 uur (Laagwater)"
       ]
     }
   ]
