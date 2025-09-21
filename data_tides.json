@@ -1,15 +1,6 @@
 {
   "september 2025": [
     {
-      "dag": "za. zaterdag 20 sep",
-      "tijden": [
-        "01:15 uur (Hoogwater)",
-        "07:40 uur (Laagwater)",
-        "13:25 uur (Hoogwater)",
-        "19:58 uur (Laagwater)"
-      ]
-    },
-    {
       "dag": "zo. zondag 21 sep",
       "tijden": [
         "01:54 uur (Hoogwater)",
@@ -26,6 +17,15 @@
         "14:34 uur (Hoogwater)",
         "21:12 uur (Laagwater)"
       ]
+    },
+    {
+      "dag": "di. dinsdag 23 sep",
+      "tijden": [
+        "02:57 uur (Hoogwater)",
+        "09:22 uur (Laagwater)",
+        "15:07 uur (Hoogwater)",
+        "21:44 uur (Laagwater)"
+      ]
     }
   ],
   "oktober 2025": [
@@ -37,68 +37,6 @@
         "15:13 uur (Hoogwater)",
         "21:07 uur (Laagwater)"
       ]
-    },
-    {
-      "dag": "do. donderdag 2 okt",
-      "tijden": [
-        "03:50 uur (Hoogwater)",
-        "09:59 uur (Laagwater)",
-        "16:30 uur (Hoogwater)",
-        "22:46 uur (Laagwater)"
-      ]
-    },
-    {
-      "dag": "vr. vrijdag 3 okt",
-      "tijden": [
-        "04:53 uur (Hoogwater)",
-        "11:14 uur (Laagwater)",
-        "17:35 uur (Hoogwater)",
-        "23:48 uur (Laagwater)"
-      ]
-    },
-    {
-      "dag": "za. zaterdag 4 okt",
-      "tijden": [
-        "05:57 uur (Hoogwater)",
-        "12:06 uur (Laagwater)",
-        "18:34 uur (Hoogwater)"
-      ]
-    },
-    {
-      "dag": "zo. zondag 5 okt",
-      "tijden": [
-        "00:36 uur (Hoogwater)",
-        "06:51 uur (Laagwater)",
-        "12:48 uur (Hoogwater)",
-        "19:24 uur (Laagwater)"
-      ]
-    },
-    {
-      "dag": "ma. maandag 6 okt",
-      "tijden": [
-        "01:15 uur (Hoogwater)",
-        "07:38 uur (Laagwater)",
-        "13:28 uur (Hoogwater)",
-        "20:06 uur (Laagwater)"
-      ]
-    },
-    {
-      "dag": "di. dinsdag 7 okt",
-      "tijden": [
-        "01:53 uur (Hoogwater)",
-        "08:19 uur (Laagwater)",
-        "14:07 uur (Hoogwater)",
-        "20:47 uur (Laagwater)"
-      ]
-    },
-    {
-      "dag": "wo. woensdag 8 okt",
-      "tijden": [
-        "02:30 uur (Hoogwater)",
-        "09:01 uur (Laagwater)",
-        "14:45 uur (Hoogwater)",
-        "21:26 uur (Laagwater)"
-      ]
     }
   ],
   "november 2025": [
@@ -109,6 +47,15 @@
         "09:28 uur (Laagwater)",
         "15:54 uur (Hoogwater)",
         "22:06 uur (Laagwater)"
+      ]
+    },
+    {
+      "dag": "zo. zondag 2 nov",
+      "tijden": [
+        "04:19 uur (Hoogwater)",
+        "10:24 uur (Laagwater)",
+        "16:51 uur (Hoogwater)",
+        "22:55 uur (Laagwater)"
       ]
     }
   ]
