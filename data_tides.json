@@ -1,15 +1,6 @@
 {
   "september 2025": [
     {
-      "dag": "wo. woensdag 24 sep",
-      "tijden": [
-        "03:29 uur (Hoogwater)",
-        "09:51 uur (Laagwater)",
-        "15:40 uur (Hoogwater)",
-        "22:15 uur (Laagwater)"
-      ]
-    },
-    {
       "dag": "do. donderdag 25 sep",
       "tijden": [
         "04:00 uur (Hoogwater)",
@@ -25,6 +16,15 @@
         "10:42 uur (Laagwater)",
         "16:41 uur (Hoogwater)",
         "23:06 uur (Laagwater)"
+      ]
+    },
+    {
+      "dag": "za. zaterdag 27 sep",
+      "tijden": [
+        "04:55 uur (Hoogwater)",
+        "11:11 uur (Laagwater)",
+        "17:10 uur (Hoogwater)",
+        "23:29 uur (Laagwater)"
       ]
     }
   ],
@@ -62,6 +62,15 @@
         "05:57 uur (Hoogwater)",
         "12:06 uur (Laagwater)",
         "18:34 uur (Hoogwater)"
+      ]
+    },
+    {
+      "dag": "zo. zondag 5 okt",
+      "tijden": [
+        "00:36 uur (Hoogwater)",
+        "06:51 uur (Laagwater)",
+        "12:48 uur (Hoogwater)",
+        "19:24 uur (Laagwater)"
       ]
     }
   ],
@@ -108,6 +117,15 @@
         "06:55 uur (Laagwater)",
         "12:39 uur (Hoogwater)",
         "19:19 uur (Laagwater)"
+      ]
+    },
+    {
+      "dag": "do. donderdag 6 nov",
+      "tijden": [
+        "01:07 uur (Hoogwater)",
+        "07:38 uur (Laagwater)",
+        "13:22 uur (Hoogwater)",
+        "20:03 uur (Laagwater)"
       ]
     }
   ]
