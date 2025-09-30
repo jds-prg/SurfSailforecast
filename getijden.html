@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Getijden Blankenberge</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #000;
+      margin: 20px;
+      color: #fff;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 50px;
+      color: #fff;
+    }
+
+    table {
+      width: 100%;
+      max-width: 900px;
+      margin: auto;
+      border-collapse: collapse;
+    }
+
+    th,
+    td {
+      border: 3px solid #f00404;
+      padding: 10px;
+      text-align: center;
+      vertical-align: top;
+    }
+
+    th {
+      background: #616468;
+      color: #ff0000;
+    }
+
+    td.hoog {
+      color: #00f;
+      font-weight: bold;
+    }
+
+    td.laag {
+      color: #ff0;
+      font-weight: bold;
+    }
+
+    td:hover {
+      background-color: #2df106;
+      color: #000;
+    }
+
+    /* Datum- en tijdencellen */
+    td.datum {
+      background-color: #333;
+      font-weight: bold;
+    }
+
+    td.tijden {
+      background-color: #111;
+    }
+
+    /* Scheiding tussen dagen */
+    tr.day-separator td {
+      border-bottom: 5px solid #ff0000;
+      /* alleen na de dag */
+    }
+
+    h2 {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 30px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 40px;
+      color: #970f0f;
+      background: #000;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Getijden Blankenberge</h1>
+  <div id="tides-container"></div>
+
+  <script>
+    fetch('data_tides.json')
+      .then(response => response.json())
+      .then(data => {
+        const container = document.getElementById('tides-container');
+        container.innerHTML = '';
+
+        for (const maand in data) {
+          const h2 = document.createElement('h2');
+          h2.textContent = maand.charAt(0).toUpperCase() + maand.slice(1);
+          container.appendChild(h2);
+
+          const table = document.createElement('table');
+          const thead = document.createElement('thead');
+          thead.innerHTML = '<tr><th>Datum</th><th>Tijden (Hoog/Laag)</th></tr>';
+          table.appendChild(thead);
+          const tbody = document.createElement('tbody');
+
+          data[maand].forEach(dag => {
+            const tr = document.createElement('tr');
+            tr.className = 'day-separator'; // voegt scheiding toe na de dag
+
+            // Datumcel
+            const tdDatum = document.createElement('td');
+            tdDatum.textContent = dag.dag;
+            tdDatum.className = 'datum';
+            tr.appendChild(tdDatum);
+
+            // Tijdencel
+            const tdTijden = document.createElement('td');
+            tdTijden.className = 'tijden';
+            tdTijden.innerHTML = dag.tijden.map(tideStr => {
+              const match = tideStr.match(/^(\d{1,2}:\d{2}) \((hoog|laag)\)$/i);
+              if (!match) return tideStr;
+              const [_, tijd, type] = match;
+              return `<span class="${type.toLowerCase()}">${tijd} (${type})</span>`;
+            }).join('<br>');
+            tr.appendChild(tdTijden);
+
+            tbody.appendChild(tr);
+          });
+
+          table.appendChild(tbody);
+          container.appendChild(table);
+        }
+      })
+      .catch(e => console.error('Fout bij laden:', e));
+  </script>
+
+  <footer>
+    &copy; 2025 Smedtronics
+  </footer>
+
+</body>
+
+</html>
