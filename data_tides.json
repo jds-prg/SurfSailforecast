@@ -5,30 +5,6 @@
       "tijden": []
     },
     {
-      "dag": "wo. woensdag 1 okt oktober",
-      "tijden": [
-        "01:33 (laagwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "07:51 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "15:13 (laagwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "21:07 (hoogwater)"
-      ]
-    },
-    {
       "dag": "do. donderdag 2 okt oktober",
       "tijden": [
         "03:50 (laagwater)"
@@ -75,6 +51,24 @@
       "tijden": [
         "23:48 (hoogwater)"
       ]
+    },
+    {
+      "dag": "za. zaterdag 4 okt oktober",
+      "tijden": [
+        "05:57 (laagwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "12:06 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "18:34 (laagwater)"
+      ]
     }
   ],
   "november 2025": [
@@ -104,6 +98,30 @@
       "dag": "",
       "tijden": [
         "22:06 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "zo. zondag 2 nov november",
+      "tijden": [
+        "04:19 (laagwater)"
+      ]
+    },
+    {
+      "dag": "(Allerzielen) Halloween",
+      "tijden": [
+        "10:24 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "16:51 (laagwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "22:55 (hoogwater)"
       ]
     }
   ]
