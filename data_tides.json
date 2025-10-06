@@ -5,30 +5,6 @@
       "tijden": []
     },
     {
-      "dag": "zo. zondag 5 okt oktober",
-      "tijden": [
-        "00:36 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "06:51 (laagwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "12:48 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "19:24 (laagwater)"
-      ]
-    },
-    {
       "dag": "ma. maandag 6 okt oktober",
       "tijden": [
         "01:15 (hoogwater)"
@@ -75,6 +51,30 @@
       "tijden": [
         "20:47 (laagwater)"
       ]
+    },
+    {
+      "dag": "wo. woensdag 8 okt oktober",
+      "tijden": [
+        "02:30 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "09:01 (laagwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "14:45 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "21:26 (laagwater)"
+      ]
     }
   ],
   "november 2025": [
@@ -104,96 +104,6 @@
       "dag": "",
       "tijden": [
         "22:06 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "zo. zondag 2 nov november",
-      "tijden": [
-        "04:19 (laagwater)"
-      ]
-    },
-    {
-      "dag": "(Allerzielen) Halloween",
-      "tijden": [
-        "10:24 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "16:51 (laagwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "22:55 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "ma. maandag 3 nov november",
-      "tijden": [
-        "05:17 (laagwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "11:13 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "17:47 (laagwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "23:42 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "di. dinsdag 4 nov november",
-      "tijden": [
-        "06:07 (laagwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "11:57 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "18:33 (laagwater)"
-      ]
-    },
-    {
-      "dag": "wo. woensdag 5 nov november",
-      "tijden": [
-        "00:24 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "06:55 (laagwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "12:39 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "19:19 (laagwater)"
       ]
     }
   ]
