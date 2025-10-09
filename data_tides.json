@@ -5,30 +5,6 @@
       "tijden": []
     },
     {
-      "dag": "wo. woensdag 8 okt oktober",
-      "tijden": [
-        "02:30 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "09:01 (laagwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "14:45 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "21:26 (laagwater)"
-      ]
-    },
-    {
       "dag": "do. donderdag 9 okt oktober",
       "tijden": [
         "03:10 (hoogwater)"
@@ -74,6 +50,30 @@
       "dag": "",
       "tijden": [
         "22:49 (laagwater)"
+      ]
+    },
+    {
+      "dag": "za. zaterdag 11 okt oktober",
+      "tijden": [
+        "04:33 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "11:03 (laagwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "16:53 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "23:32 (laagwater)"
       ]
     }
   ],
@@ -152,6 +152,24 @@
       "dag": "",
       "tijden": [
         "23:42 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "di. dinsdag 4 nov november",
+      "tijden": [
+        "06:07 (laagwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "11:57 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "18:33 (laagwater)"
       ]
     }
   ]
