@@ -5,30 +5,6 @@
       "tijden": []
     },
     {
-      "dag": "zo. zondag 26 okt oktober",
-      "tijden": [
-        "03:25 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "(Start wintertijd) Halloween",
-      "tijden": [
-        "09:43 (laagwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "15:42 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "21:59 (laagwater)"
-      ]
-    },
-    {
       "dag": "ma. maandag 27 okt oktober",
       "tijden": [
         "03:56 (hoogwater)"
@@ -74,6 +50,24 @@
       "dag": "",
       "tijden": [
         "23:13 (laagwater)"
+      ]
+    },
+    {
+      "dag": "wo. woensdag 29 okt oktober",
+      "tijden": [
+        "05:19 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "Halloween",
+      "tijden": [
+        "11:42 (laagwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "17:58 (hoogwater)"
       ]
     }
   ],
@@ -194,6 +188,30 @@
       "dag": "",
       "tijden": [
         "19:19 (laagwater)"
+      ]
+    },
+    {
+      "dag": "do. donderdag 6 nov november",
+      "tijden": [
+        "01:07 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "07:38 (laagwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "13:22 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "20:03 (laagwater)"
       ]
     }
   ]
