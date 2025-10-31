@@ -5,30 +5,6 @@
       "tijden": []
     },
     {
-      "dag": "do. donderdag 30 okt oktober",
-      "tijden": [
-        "00:16 (laagwater)"
-      ]
-    },
-    {
-      "dag": "Halloween",
-      "tijden": [
-        "06:24 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "13:41 (laagwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "19:41 (hoogwater)"
-      ]
-    },
-    {
       "dag": "vr. vrijdag 31 okt oktober",
       "tijden": [
         "02:16 (laagwater)"
@@ -80,6 +56,30 @@
       "dag": "",
       "tijden": [
         "22:06 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "zo. zondag 2 nov november",
+      "tijden": [
+        "04:19 (laagwater)"
+      ]
+    },
+    {
+      "dag": "(Allerzielen) Halloween",
+      "tijden": [
+        "10:24 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "16:51 (laagwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "22:55 (hoogwater)"
       ]
     }
   ]
