@@ -1,34 +1,4 @@
 {
-  "oktober 2025": [
-    {
-      "dag": "",
-      "tijden": []
-    },
-    {
-      "dag": "vr. vrijdag 31 okt oktober",
-      "tijden": [
-        "02:16 (laagwater)"
-      ]
-    },
-    {
-      "dag": "(Halloween) Halloween",
-      "tijden": [
-        "08:17 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "14:53 (laagwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "21:04 (hoogwater)"
-      ]
-    }
-  ],
   "november 2025": [
     {
       "dag": "",
@@ -80,6 +50,30 @@
       "dag": "",
       "tijden": [
         "22:55 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "ma. maandag 3 nov november",
+      "tijden": [
+        "05:17 (laagwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "11:13 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "17:47 (laagwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "23:42 (hoogwater)"
       ]
     }
   ]
