@@ -5,30 +5,6 @@
       "tijden": []
     },
     {
-      "dag": "za. zaterdag 1 nov november",
-      "tijden": [
-        "03:20 (laagwater)"
-      ]
-    },
-    {
-      "dag": "(Allerheiligen) Halloween",
-      "tijden": [
-        "09:28 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "15:54 (laagwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "22:06 (hoogwater)"
-      ]
-    },
-    {
       "dag": "zo. zondag 2 nov november",
       "tijden": [
         "04:19 (laagwater)"
@@ -74,6 +50,24 @@
       "dag": "",
       "tijden": [
         "23:42 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "di. dinsdag 4 nov november",
+      "tijden": [
+        "06:07 (laagwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "11:57 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "18:33 (laagwater)"
       ]
     }
   ]
