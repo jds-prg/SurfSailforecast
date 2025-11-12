@@ -5,31 +5,7 @@
       "tijden": []
     },
     {
-      "dag": "di. dinsdag 11 nov november",
-      "tijden": [
-        "05:00 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "(Wapenstilstandsdag)",
-      "tijden": [
-        "11:32 (laagwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "17:38 (hoogwater)"
-      ]
-    },
-    {
       "dag": "wo. woensdag 12 nov november",
-      "tijden": [
-        "00:05 (laagwater)"
-      ]
-    },
-    {
-      "dag": "",
       "tijden": [
         "06:06 (hoogwater)"
       ]
@@ -68,6 +44,30 @@
       "dag": "",
       "tijden": [
         "20:09 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "vr. vrijdag 14 nov november",
+      "tijden": [
+        "02:25 (laagwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "08:38 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "15:00 (laagwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "21:22 (hoogwater)"
       ]
     }
   ]
