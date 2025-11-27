@@ -5,30 +5,6 @@
       "tijden": []
     },
     {
-      "dag": "wo. woensdag 26 nov november",
-      "tijden": [
-        "04:19 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "10:44 (laagwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "16:49 (hoogwater)"
-      ]
-    },
-    {
-      "dag": "",
-      "tijden": [
-        "23:04 (laagwater)"
-      ]
-    },
-    {
       "dag": "do. donderdag 27 nov november",
       "tijden": [
         "05:06 (hoogwater)"
@@ -68,6 +44,30 @@
       "dag": "",
       "tijden": [
         "19:04 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "za. zaterdag 29 nov november",
+      "tijden": [
+        "01:33 (laagwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "07:32 (hoogwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "14:13 (laagwater)"
+      ]
+    },
+    {
+      "dag": "",
+      "tijden": [
+        "20:21 (hoogwater)"
       ]
     }
   ]
